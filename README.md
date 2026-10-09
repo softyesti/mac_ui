@@ -1,7 +1,7 @@
 # MacUI
 
-![License](https://img.shields.io/github/license/quartz-vmm/desktop?style=plastic&color=blue)
-![Contributing](https://img.shields.io/badge/contributing-Closed-blue?style=plastic)
+![License](https://img.shields.io/github/license/softyesti/mac_ui?style=plastic&color=purple)
+![Contributing](https://img.shields.io/badge/contributing-Closed-purple?style=plastic)
 
 UI kit based on the current macOS design language.
 
@@ -11,9 +11,9 @@ Coming soon...
 
 ## 🧰 Technologies
 
-[![Made with Dart](https://img.shields.io/badge/backend-Dart-blue?style=plastic)](https://dart.dev)
-[![Made with Flutter](https://img.shields.io/badge/frontend-Flutter-blue?style=plastic)]((https://flutter.dev))
-[![style: very good analysis](https://img.shields.io/badge/code_style-Very_Good_Analysis-blue.svg?style=plastic)](https://pub.dev/packages/very_good_analysis)
+[![Made with Dart](https://img.shields.io/badge/backend-Dart-purple?style=plastic)](https://dart.dev)
+[![Made with Flutter](https://img.shields.io/badge/frontend-Flutter-purple?style=plastic)]((https://flutter.dev))
+[![style: very good analysis](https://img.shields.io/badge/code_style-Very_Good_Analysis-purple.svg?style=plastic)](https://pub.dev/packages/very_good_analysis)
 
 - Dart [\<https://dart.dev\>](https://dart.dev)
 - Flutter [\<https://flutter.dev\>](https://flutter.dev)
