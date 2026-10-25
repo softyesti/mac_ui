@@ -12,7 +12,7 @@ platforms:
 version: 0.1.0
 
 environment:
-  sdk: ^3.13.5
+  sdk: ^3.13.7
   flutter: ">=1.17.0"
 
 dependencies:
