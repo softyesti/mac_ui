@@ -21,6 +21,7 @@ dependencies:
 
   path: ^1.9.1
   dbus: ^0.8.0
+  get_it: ^9.3.0
   system_theme: ^3.3.0
 
 dev_dependencies:
