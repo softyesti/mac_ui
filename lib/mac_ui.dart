@@ -11,5 +11,8 @@ sealed class MacUI {
   /// Initializes the library.
   static Future<void> init() async {
     addLicense('assets/fonts/inter/OFL.txt');
+    addLicense('assets/fonts/nunito/OFL.txt');
+    addLicense('assets/fonts/literata/OFL.txt');
+    addLicense('assets/fonts/jetbrains/OFL.txt');
   }
 }
