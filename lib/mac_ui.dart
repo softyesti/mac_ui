@@ -10,8 +10,11 @@ import 'package:mac_ui/src/repositories/theme/theme_repository_impl.dart';
 import 'package:mac_ui/src/services/theme/linux_theme_service_impl.dart';
 import 'package:mac_ui/src/services/theme/theme_service_impl.dart';
 
+export 'package:flutter/widgets.dart' hide Text, WidgetsApp;
+
 export 'src/domain.dart';
 export 'src/theme.dart';
+export 'src/widgets.dart';
 
 /// UI kit based on the current macOS design language.
 sealed class MacUI {
